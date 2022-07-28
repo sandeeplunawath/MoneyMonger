@@ -3,3 +3,15 @@
 ################################################################################
 
 /MM/.vs/MM/FileContentIndex
+/build/
+*/**/bin/Debug
+*/**/bin/Release
+*/**/obj/Debug
+*/**/obj/Release
+*/obj/Debug
+.vs/
+[Dd]ebug/
+[Oo]bj/
+*.suo
+*.SUO
+/.vs
