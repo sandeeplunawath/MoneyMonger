@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiProject.Customer.CustomerPage"
+             Title="Customer Page">
+    <ScrollView>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal"
+                   Margin="20"
+                   Spacing="10">
+                <Label Text="First Name :" />
+                <Entry
+                PlaceholderColor="Gray"
+                x:Name="firstNameEntry"
+                 WidthRequest="200" 
+                Placeholder="Please Enter First Name ..." />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal"
+                   Margin="20"
+                     Spacing="10">
+                <Label Text="Last Name :" />
+                <Entry
+                PlaceholderColor="Gray"
+                x:Name="lastNameEntry"
+                 WidthRequest="200" 
+                Placeholder="Please Enter Last Name ..." />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal"
+                   Margin="20"
+                     Spacing="10">
+                <Label Text="Father's/ Husband's Name :" />
+                <Entry
+                PlaceholderColor="Gray"
+                x:Name="FatherOrHusbandNameEntry"
+                 WidthRequest="200" 
+                Placeholder="Please Enter Father or Husband Name ..." />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal"
+                   Margin="20"
+                     Spacing="10">
+                <Label Text="Nationality / Religion :" />
+                <Entry
+                PlaceholderColor="Gray"
+                x:Name="NationalityOrReligionEntry"
+                 WidthRequest="200" 
+                Placeholder="Please Enter Last Name ..." />
+            </StackLayout>
+
+
+            <StackLayout Orientation="Horizontal"
+                   Margin="20"
+                     Spacing="10">
+                <Label Text="Phone Number :" />
+                <Entry
+                PlaceholderColor="Gray"
+                x:Name="phoneNumberEntry"
+                 WidthRequest="200" 
+                   Keyboard="Numeric"
+                Placeholder="Please Enter Phone Number ..." />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal"
+                   Margin="20"
+                     Spacing="10">
+                <Label Text="Aadhar Number :" />
+                <Entry
+                PlaceholderColor="Gray"
+                x:Name="aadharNumberEntry"
+                 WidthRequest="200" 
+                    Keyboard="Numeric"
+                Placeholder="Please Enter Aadhar Number ..." />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal"
+                   Margin="20"
+                     Spacing="10">
+                <Label Text="Date of Birth :" />
+
+                <DatePicker                
+                x:Name="DOBDate"/>
+            </StackLayout>
+
+
+            <StackLayout Orientation="Horizontal"
+                   Margin="20"
+                     Spacing="10">
+                <Label Text="Address :" />
+
+                <Editor
+                PlaceholderColor="Gray"
+                x:Name="addressEditor"
+                 WidthRequest="200"
+                    HeightRequest="100"
+                Placeholder="Please Enter Address ..." />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal"
+                   Margin="20"
+                     Spacing="50">
+
+                <Button
+                x:Name="customerImageBtn"
+                Text="Customer Image" 
+                HorizontalOptions="Start"
+                Clicked="OnCustomerImageClicked"
+                />
+
+                <Image
+                HeightRequest="100"
+                WidthRequest="100"                
+                HorizontalOptions="Start"
+                x:Name="CustomerImage"/>
+                <Image
+                HeightRequest="100"
+                WidthRequest="100"                
+                HorizontalOptions="Start"
+                x:Name="retrieveImage"/>
+
+            </StackLayout>
+            <StackLayout Orientation="Horizontal"
+                   Margin="20"
+                     Spacing="50"
+                         RadioButtonGroup.GroupName="rdbGender" x:Name="radioGender">
+
+                <Label Text="Gender" />
+                <RadioButton Content="Male" x:Name="rdbMale"/>
+                <RadioButton Content="Female" x:Name="rdbfemale"/>
+                <!--<RadioButton Content="Monkey"
+                 IsChecked="true" />-->
+            </StackLayout>
+
+            <Button
+                x:Name="saveBtn"
+                Text="Save" 
+                HorizontalOptions="Center"
+                Clicked="OnSaveButtonClicked"
+                />
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

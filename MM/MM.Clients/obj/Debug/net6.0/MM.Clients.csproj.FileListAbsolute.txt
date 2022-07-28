@@ -1,0 +1,15 @@
+D:\Code\Development\maui\MM\MM.Clients\bin\Debug\net6.0\MM.Clients.deps.json
+D:\Code\Development\maui\MM\MM.Clients\bin\Debug\net6.0\MM.Clients.dll
+D:\Code\Development\maui\MM\MM.Clients\bin\Debug\net6.0\MM.Clients.pdb
+D:\Code\Development\maui\MM\MM.Clients\bin\Debug\net6.0\MM.Repository.dll
+D:\Code\Development\maui\MM\MM.Clients\bin\Debug\net6.0\MM.Repository.pdb
+D:\Code\Development\maui\MM\MM.Clients\obj\Debug\net6.0\MM.Clients.csproj.AssemblyReference.cache
+D:\Code\Development\maui\MM\MM.Clients\obj\Debug\net6.0\MM.Clients.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Development\maui\MM\MM.Clients\obj\Debug\net6.0\MM.Clients.AssemblyInfoInputs.cache
+D:\Code\Development\maui\MM\MM.Clients\obj\Debug\net6.0\MM.Clients.AssemblyInfo.cs
+D:\Code\Development\maui\MM\MM.Clients\obj\Debug\net6.0\MM.Clients.csproj.CoreCompileInputs.cache
+D:\Code\Development\maui\MM\MM.Clients\obj\Debug\net6.0\MM.Clients.csproj.CopyComplete
+D:\Code\Development\maui\MM\MM.Clients\obj\Debug\net6.0\MM.Clients.dll
+D:\Code\Development\maui\MM\MM.Clients\obj\Debug\net6.0\refint\MM.Clients.dll
+D:\Code\Development\maui\MM\MM.Clients\obj\Debug\net6.0\MM.Clients.pdb
+D:\Code\Development\maui\MM\MM.Clients\obj\Debug\net6.0\ref\MM.Clients.dll

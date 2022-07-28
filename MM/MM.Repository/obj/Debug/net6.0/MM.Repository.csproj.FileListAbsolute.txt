@@ -1,0 +1,12 @@
+D:\Code\Development\maui\MM\MM.Repository\bin\Debug\net6.0\MM.Repository.deps.json
+D:\Code\Development\maui\MM\MM.Repository\bin\Debug\net6.0\MM.Repository.dll
+D:\Code\Development\maui\MM\MM.Repository\bin\Debug\net6.0\MM.Repository.pdb
+D:\Code\Development\maui\MM\MM.Repository\obj\Debug\net6.0\MM.Repository.csproj.AssemblyReference.cache
+D:\Code\Development\maui\MM\MM.Repository\obj\Debug\net6.0\MM.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Development\maui\MM\MM.Repository\obj\Debug\net6.0\MM.Repository.AssemblyInfoInputs.cache
+D:\Code\Development\maui\MM\MM.Repository\obj\Debug\net6.0\MM.Repository.AssemblyInfo.cs
+D:\Code\Development\maui\MM\MM.Repository\obj\Debug\net6.0\MM.Repository.csproj.CoreCompileInputs.cache
+D:\Code\Development\maui\MM\MM.Repository\obj\Debug\net6.0\MM.Repository.dll
+D:\Code\Development\maui\MM\MM.Repository\obj\Debug\net6.0\refint\MM.Repository.dll
+D:\Code\Development\maui\MM\MM.Repository\obj\Debug\net6.0\MM.Repository.pdb
+D:\Code\Development\maui\MM\MM.Repository\obj\Debug\net6.0\ref\MM.Repository.dll
