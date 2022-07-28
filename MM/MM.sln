@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MM.Repository", "MM.Reposit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiProject", "MauiProject\MauiProject.csproj", "{D6563590-E928-4EA1-838B-D90239799C32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MM.Services", "MM.Services\MM.Services.csproj", "{14A0A96C-C776-47BD-B053-31D699DCE4C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MM.Services", "MM.Services\MM.Services.csproj", "{14A0A96C-C776-47BD-B053-31D699DCE4C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
